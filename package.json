@@ -1,0 +1,28 @@
+{
+  "name": "exdso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "server": "node server/index.js",
+    "client": "npm --prefix client run dev",
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"blue,green\" \"node server/index.js\" \"npm --prefix client run dev\"",
+    "pipeline": "node scripts/run_pipeline.js",
+    "build": "npm --prefix client run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "cheerio": "^1.2.0",
+    "concurrently": "^10.0.6",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.7",
+    "express": "^5.3.0",
+    "nodemailer": "^10.1.0"
+  }
+}

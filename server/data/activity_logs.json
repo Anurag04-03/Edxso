@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "log-1791727563511",
+    "timestamp": "2026-10-11T14:06:03.511Z",
+    "level": "info",
+    "message": "GET /api/tracker"
+  },
+  {
+    "id": "log-1791727563498",
+    "timestamp": "2026-10-11T14:06:03.498Z",
+    "level": "info",
+    "message": "GET /api/influencers"
+  },
+  {
+    "id": "log-1791727563462",
+    "timestamp": "2026-10-11T14:06:03.462Z",
+    "level": "info",
+    "message": "Instagram DM updated for Sarah Brithinee (MANUALLY_SENT)"
+  },
+  {
+    "id": "log-1791727563446",
+    "timestamp": "2026-10-11T14:06:03.446Z",
+    "level": "info",
+    "message": "POST /api/send/instagram-dm"
+  },
+  {
+    "id": "log-1791727392641",
+    "timestamp": "2026-10-11T14:03:12.641Z",
+    "level": "info",
+    "message": "GET /api/tracker"
+  },
+  {
+    "id": "log-1791727392624",
+    "timestamp": "2026-10-11T14:03:12.624Z",
+    "level": "info",
+    "message": "GET /api/influencers"
+  },
+  {
+    "id": "log-1791727392450",
+    "timestamp": "2026-10-11T14:03:12.450Z",
+    "level": "info",
+    "message": "Email outreach run complete: 0 sent, 26 duplicates prevented"
+  },
+  {
+    "id": "log-1791727392444",
+    "timestamp": "2026-10-11T14:03:12.444Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Camila Gomez Glam (camila@camilagomez.co)"
+  },
+  {
+    "id": "log-1791727392436",
+    "timestamp": "2026-10-11T14:03:12.436Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Devon Miller Clean Beauty (partnerships@devonmiller.org)"
+  },
+  {
+    "id": "log-1791727392428",
+    "timestamp": "2026-10-11T14:03:12.428Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Fatima Zahra Hijab Style (fatima.zahra.partnerships@gmail.com)"
+  },
+  {
+    "id": "log-1791727392418",
+    "timestamp": "2026-10-11T14:03:12.418Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Mia Carlson Wardrobe (mia.carlson.business@gmail.com)"
+  },
+  {
+    "id": "log-1791727392411",
+    "timestamp": "2026-10-11T14:03:12.411Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Valentina Rossi Glow (valentina@rossimanagement.it)"
+  },
+  {
+    "id": "log-1791727392403",
+    "timestamp": "2026-10-11T14:03:12.403Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Rachel Sterling Hair (rachel@sterlinghair.co.uk)"
+  },
+  {
+    "id": "log-1791727392396",
+    "timestamp": "2026-10-11T14:03:12.396Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Ananya Sharma Beauty (ananya.mgmt@sharmamedia.in)"
+  },
+  {
+    "id": "log-1791727392387",
+    "timestamp": "2026-10-11T14:03:12.387Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Lauren Hayes Thrift (lauren@hayescreative.net)"
+  },
+  {
+    "id": "log-1791727392378",
+    "timestamp": "2026-10-11T14:03:12.378Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Mei Lin Skincare Lab (collab@meilinbeautychem.com)"
+  },
+  {
+    "id": "log-1791727392364",
+    "timestamp": "2026-10-11T14:03:12.364Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Jessica Low (jessica@lowtalentgroup.com)"
+  },
+  {
+    "id": "log-1791727392360",
+    "timestamp": "2026-10-11T14:03:12.360Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Freja Lindqvist (freja@nordiccreators.se)"
+  },
+  {
+    "id": "log-1791727392350",
+    "timestamp": "2026-10-11T14:03:12.350Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Aaliyah Washington (aaliyah@washingtonmedia.co)"
+  },
+  {
+    "id": "log-1791727392343",
+    "timestamp": "2026-10-11T14:03:12.343Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Camille Leroy (camille@leroyagency.fr)"
+  },
+  {
+    "id": "log-1791727392337",
+    "timestamp": "2026-10-11T14:03:12.337Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Sienna Ray (sienna.ray.collab@gmail.com)"
+  },
+  {
+    "id": "log-1791727392329",
+    "timestamp": "2026-10-11T14:03:12.329Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for David Morales Grooming (david@moralesgrooming.com)"
+  },
+  {
+    "id": "log-1791727392320",
+    "timestamp": "2026-10-11T14:03:12.320Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Brooke Gallagher (brooke.mgmt@gallaghercollective.com)"
+  },
+  {
+    "id": "log-1791727392311",
+    "timestamp": "2026-10-11T14:03:12.311Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Talia Mendes (talia.collabs@gmail.com)"
+  },
+  {
+    "id": "log-1791727392305",
+    "timestamp": "2026-10-11T14:03:12.305Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Zara Vance (zara@vancemedia.co.uk)"
+  },
+  {
+    "id": "log-1791727392295",
+    "timestamp": "2026-10-11T14:03:12.295Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Hannah Bergmann (hannah@bergmannstudio.de)"
+  },
+  {
+    "id": "log-1791727392289",
+    "timestamp": "2026-10-11T14:03:12.289Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Nia Robinson (nia@thecurlcollective.agency)"
+  },
+  {
+    "id": "log-1791727392278",
+    "timestamp": "2026-10-11T14:03:12.278Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Kylie Chen (kyliechen.biz@gmail.com)"
+  },
+  {
+    "id": "log-1791727392272",
+    "timestamp": "2026-10-11T14:03:12.272Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Jasmine Thorne (jasmine@thornebeauty.co)"
+  },
+  {
+    "id": "log-1791727392262",
+    "timestamp": "2026-10-11T14:03:12.262Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Chloe Dupont (chloe.mgmt@dupontcreators.fr)"
+  },
+  {
+    "id": "log-1791727392257",
+    "timestamp": "2026-10-11T14:03:12.257Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Maya Patel Glow (partnerships@mayaglow.media)"
+  },
+  {
+    "id": "log-1791727392248",
+    "timestamp": "2026-10-11T14:03:12.248Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Elena Rostova (contact@elenarostova.com)"
+  },
+  {
+    "id": "log-1791727392243",
+    "timestamp": "2026-10-11T14:03:12.243Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Sarah Brithinee (sarah.brithinee.collabs@gmail.com)"
+  },
+  {
+    "id": "log-1791727392230",
+    "timestamp": "2026-10-11T14:03:12.230Z",
+    "level": "info",
+    "message": "Initiating Email Outreach Batch (Mode: simulation)"
+  },
+  {
+    "id": "log-1791727392225",
+    "timestamp": "2026-10-11T14:03:12.225Z",
+    "level": "info",
+    "message": "AI message generation complete for all qualified influencers"
+  },
+  {
+    "id": "log-1791727392188",
+    "timestamp": "2026-10-11T14:03:12.188Z",
+    "level": "info",
+    "message": "Generating AI personalized outreach messages for 62 creators (Brand: \"GlowMatrix Skincare\", Type: \"UGC content creation\")"
+  },
+  {
+    "id": "log-1791727392160",
+    "timestamp": "2026-10-11T14:03:12.160Z",
+    "level": "info",
+    "message": "Enrichment completed: 62 profiles enriched. Valid emails: 58, Not Found: 4"
+  },
+  {
+    "id": "log-1791727392153",
+    "timestamp": "2026-10-11T14:03:12.153Z",
+    "level": "info",
+    "message": "Starting Profile Enrichment pipeline (Target: 62 creators)"
+  },
+  {
+    "id": "log-1791727392138",
+    "timestamp": "2026-10-11T14:03:12.139Z",
+    "level": "info",
+    "message": "Filtering finished: 28 Passed, 34 Failed out of 62 total creators"
+  },
+  {
+    "id": "log-1791727392028",
+    "timestamp": "2026-10-11T14:03:12.028Z",
+    "level": "info",
+    "message": "Running Filtering & Classification: Niche=\"Fashion & Beauty\", Followers=[5000 - 100000], MinEngagement=2%"
+  },
+  {
+    "id": "log-1791727392003",
+    "timestamp": "2026-10-11T14:03:12.003Z",
+    "level": "info",
+    "message": "Discovery completed: Retrieved 62 influencer profiles"
+  },
+  {
+    "id": "log-1791727391976",
+    "timestamp": "2026-10-11T14:03:11.976Z",
+    "level": "info",
+    "message": "Starting Influencer Discovery: niche=\"Fashion & Beauty\", source=\"all\", targetMin=50"
+  },
+  {
+    "id": "log-1791727391964",
+    "timestamp": "2026-10-11T14:03:11.964Z",
+    "level": "info",
+    "message": "▶ TRIGGERED FULL AUTOMATION PIPELINE (Niche: \"Fashion & Beauty\")"
+  },
+  {
+    "id": "log-1791727391942",
+    "timestamp": "2026-10-11T14:03:11.942Z",
+    "level": "info",
+    "message": "POST /api/pipeline/run"
+  },
+  {
+    "id": "log-1791727124276",
+    "timestamp": "2026-10-11T13:58:44.276Z",
+    "level": "info",
+    "message": "GET /api/tracker"
+  },
+  {
+    "id": "log-1791727124264",
+    "timestamp": "2026-10-11T13:58:44.264Z",
+    "level": "info",
+    "message": "GET /api/influencers"
+  },
+  {
+    "id": "log-1791727124247",
+    "timestamp": "2026-10-11T13:58:44.247Z",
+    "level": "info",
+    "message": "GET /api/tracker"
+  },
+  {
+    "id": "log-1791727124234",
+    "timestamp": "2026-10-11T13:58:44.234Z",
+    "level": "info",
+    "message": "GET /api/influencers"
+  },
+  {
+    "id": "log-1791726506235",
+    "timestamp": "2026-10-11T13:48:26.235Z",
+    "level": "info",
+    "message": "Email outreach run complete: 0 sent, 26 duplicates prevented"
+  },
+  {
+    "id": "log-1791726506233",
+    "timestamp": "2026-10-11T13:48:26.233Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Camila Gomez Glam (camila@camilagomez.co)"
+  },
+  {
+    "id": "log-1791726506231",
+    "timestamp": "2026-10-11T13:48:26.231Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Devon Miller Clean Beauty (partnerships@devonmiller.org)"
+  },
+  {
+    "id": "log-1791726506229",
+    "timestamp": "2026-10-11T13:48:26.229Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Fatima Zahra Hijab Style (fatima.zahra.partnerships@gmail.com)"
+  },
+  {
+    "id": "log-1791726506227",
+    "timestamp": "2026-10-11T13:48:26.227Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Mia Carlson Wardrobe (mia.carlson.business@gmail.com)"
+  },
+  {
+    "id": "log-1791726506225",
+    "timestamp": "2026-10-11T13:48:26.225Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Valentina Rossi Glow (valentina@rossimanagement.it)"
+  },
+  {
+    "id": "log-1791726506223",
+    "timestamp": "2026-10-11T13:48:26.223Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Rachel Sterling Hair (rachel@sterlinghair.co.uk)"
+  },
+  {
+    "id": "log-1791726506221",
+    "timestamp": "2026-10-11T13:48:26.221Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Ananya Sharma Beauty (ananya.mgmt@sharmamedia.in)"
+  },
+  {
+    "id": "log-1791726506217",
+    "timestamp": "2026-10-11T13:48:26.217Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Lauren Hayes Thrift (lauren@hayescreative.net)"
+  },
+  {
+    "id": "log-1791726506215",
+    "timestamp": "2026-10-11T13:48:26.215Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Mei Lin Skincare Lab (collab@meilinbeautychem.com)"
+  },
+  {
+    "id": "log-1791726506214",
+    "timestamp": "2026-10-11T13:48:26.214Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Jessica Low (jessica@lowtalentgroup.com)"
+  },
+  {
+    "id": "log-1791726506211",
+    "timestamp": "2026-10-11T13:48:26.211Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Freja Lindqvist (freja@nordiccreators.se)"
+  },
+  {
+    "id": "log-1791726506209",
+    "timestamp": "2026-10-11T13:48:26.209Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Aaliyah Washington (aaliyah@washingtonmedia.co)"
+  },
+  {
+    "id": "log-1791726506208",
+    "timestamp": "2026-10-11T13:48:26.208Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Camille Leroy (camille@leroyagency.fr)"
+  },
+  {
+    "id": "log-1791726506205",
+    "timestamp": "2026-10-11T13:48:26.205Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Sienna Ray (sienna.ray.collab@gmail.com)"
+  },
+  {
+    "id": "log-1791726506203",
+    "timestamp": "2026-10-11T13:48:26.203Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for David Morales Grooming (david@moralesgrooming.com)"
+  },
+  {
+    "id": "log-1791726506200",
+    "timestamp": "2026-10-11T13:48:26.200Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Brooke Gallagher (brooke.mgmt@gallaghercollective.com)"
+  },
+  {
+    "id": "log-1791726506198",
+    "timestamp": "2026-10-11T13:48:26.198Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Talia Mendes (talia.collabs@gmail.com)"
+  },
+  {
+    "id": "log-1791726506196",
+    "timestamp": "2026-10-11T13:48:26.196Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Zara Vance (zara@vancemedia.co.uk)"
+  },
+  {
+    "id": "log-1791726506194",
+    "timestamp": "2026-10-11T13:48:26.194Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Hannah Bergmann (hannah@bergmannstudio.de)"
+  },
+  {
+    "id": "log-1791726506191",
+    "timestamp": "2026-10-11T13:48:26.191Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Nia Robinson (nia@thecurlcollective.agency)"
+  },
+  {
+    "id": "log-1791726506189",
+    "timestamp": "2026-10-11T13:48:26.189Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Kylie Chen (kyliechen.biz@gmail.com)"
+  },
+  {
+    "id": "log-1791726506186",
+    "timestamp": "2026-10-11T13:48:26.186Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Jasmine Thorne (jasmine@thornebeauty.co)"
+  },
+  {
+    "id": "log-1791726506183",
+    "timestamp": "2026-10-11T13:48:26.183Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Chloe Dupont (chloe.mgmt@dupontcreators.fr)"
+  },
+  {
+    "id": "log-1791726506181",
+    "timestamp": "2026-10-11T13:48:26.181Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Maya Patel Glow (partnerships@mayaglow.media)"
+  },
+  {
+    "id": "log-1791726506179",
+    "timestamp": "2026-10-11T13:48:26.179Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Elena Rostova (contact@elenarostova.com)"
+  },
+  {
+    "id": "log-1791726506177",
+    "timestamp": "2026-10-11T13:48:26.177Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Sarah Brithinee (sarah.brithinee.collabs@gmail.com)"
+  },
+  {
+    "id": "log-1791726506174",
+    "timestamp": "2026-10-11T13:48:26.174Z",
+    "level": "info",
+    "message": "Initiating Email Outreach Batch (Mode: simulation)"
+  },
+  {
+    "id": "log-1791726506172",
+    "timestamp": "2026-10-11T13:48:26.172Z",
+    "level": "info",
+    "message": "AI message generation complete for all qualified influencers"
+  },
+  {
+    "id": "log-1791726506164",
+    "timestamp": "2026-10-11T13:48:26.164Z",
+    "level": "info",
+    "message": "Generating AI personalized outreach messages for 62 creators (Brand: \"GlowMatrix Skincare\", Type: \"UGC content creation\")"
+  },
+  {
+    "id": "log-1791726506160",
+    "timestamp": "2026-10-11T13:48:26.160Z",
+    "level": "info",
+    "message": "Enrichment completed: 62 profiles enriched. Valid emails: 58, Not Found: 4"
+  },
+  {
+    "id": "log-1791726506156",
+    "timestamp": "2026-10-11T13:48:26.156Z",
+    "level": "info",
+    "message": "Starting Profile Enrichment pipeline (Target: 62 creators)"
+  },
+  {
+    "id": "log-1791726506150",
+    "timestamp": "2026-10-11T13:48:26.150Z",
+    "level": "info",
+    "message": "Filtering finished: 28 Passed, 34 Failed out of 62 total creators"
+  },
+  {
+    "id": "log-1791726506122",
+    "timestamp": "2026-10-11T13:48:26.122Z",
+    "level": "info",
+    "message": "Running Filtering & Classification: Niche=\"Fashion & Beauty\", Followers=[5000 - 100000], MinEngagement=2%"
+  },
+  {
+    "id": "log-1791726506116",
+    "timestamp": "2026-10-11T13:48:26.116Z",
+    "level": "info",
+    "message": "Discovery completed: Retrieved 62 influencer profiles"
+  },
+  {
+    "id": "log-1791726506111",
+    "timestamp": "2026-10-11T13:48:26.111Z",
+    "level": "info",
+    "message": "Starting Influencer Discovery: niche=\"Fashion & Beauty\", source=\"all\", targetMin=50"
+  },
+  {
+    "id": "log-1791726423259",
+    "timestamp": "2026-10-11T13:47:03.259Z",
+    "level": "info",
+    "message": "Email outreach run complete: 0 sent, 26 duplicates prevented"
+  },
+  {
+    "id": "log-1791726423256",
+    "timestamp": "2026-10-11T13:47:03.256Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Camila Gomez Glam (camila@camilagomez.co)"
+  },
+  {
+    "id": "log-1791726423255",
+    "timestamp": "2026-10-11T13:47:03.255Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Devon Miller Clean Beauty (partnerships@devonmiller.org)"
+  },
+  {
+    "id": "log-1791726423253",
+    "timestamp": "2026-10-11T13:47:03.253Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Fatima Zahra Hijab Style (fatima.zahra.partnerships@gmail.com)"
+  },
+  {
+    "id": "log-1791726423251",
+    "timestamp": "2026-10-11T13:47:03.251Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Mia Carlson Wardrobe (mia.carlson.business@gmail.com)"
+  },
+  {
+    "id": "log-1791726423249",
+    "timestamp": "2026-10-11T13:47:03.249Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Valentina Rossi Glow (valentina@rossimanagement.it)"
+  },
+  {
+    "id": "log-1791726423247",
+    "timestamp": "2026-10-11T13:47:03.247Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Rachel Sterling Hair (rachel@sterlinghair.co.uk)"
+  },
+  {
+    "id": "log-1791726423245",
+    "timestamp": "2026-10-11T13:47:03.245Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Ananya Sharma Beauty (ananya.mgmt@sharmamedia.in)"
+  },
+  {
+    "id": "log-1791726423243",
+    "timestamp": "2026-10-11T13:47:03.243Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Lauren Hayes Thrift (lauren@hayescreative.net)"
+  },
+  {
+    "id": "log-1791726423240",
+    "timestamp": "2026-10-11T13:47:03.240Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Mei Lin Skincare Lab (collab@meilinbeautychem.com)"
+  },
+  {
+    "id": "log-1791726423238",
+    "timestamp": "2026-10-11T13:47:03.238Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Jessica Low (jessica@lowtalentgroup.com)"
+  },
+  {
+    "id": "log-1791726423236",
+    "timestamp": "2026-10-11T13:47:03.236Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Freja Lindqvist (freja@nordiccreators.se)"
+  },
+  {
+    "id": "log-1791726423234",
+    "timestamp": "2026-10-11T13:47:03.234Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Aaliyah Washington (aaliyah@washingtonmedia.co)"
+  },
+  {
+    "id": "log-1791726423233",
+    "timestamp": "2026-10-11T13:47:03.233Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Camille Leroy (camille@leroyagency.fr)"
+  },
+  {
+    "id": "log-1791726423231",
+    "timestamp": "2026-10-11T13:47:03.231Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Sienna Ray (sienna.ray.collab@gmail.com)"
+  },
+  {
+    "id": "log-1791726423229",
+    "timestamp": "2026-10-11T13:47:03.229Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for David Morales Grooming (david@moralesgrooming.com)"
+  },
+  {
+    "id": "log-1791726423226",
+    "timestamp": "2026-10-11T13:47:03.226Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Brooke Gallagher (brooke.mgmt@gallaghercollective.com)"
+  },
+  {
+    "id": "log-1791726423225",
+    "timestamp": "2026-10-11T13:47:03.225Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Talia Mendes (talia.collabs@gmail.com)"
+  },
+  {
+    "id": "log-1791726423223",
+    "timestamp": "2026-10-11T13:47:03.223Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Zara Vance (zara@vancemedia.co.uk)"
+  },
+  {
+    "id": "log-1791726423221",
+    "timestamp": "2026-10-11T13:47:03.221Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Hannah Bergmann (hannah@bergmannstudio.de)"
+  },
+  {
+    "id": "log-1791726423218",
+    "timestamp": "2026-10-11T13:47:03.218Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Nia Robinson (nia@thecurlcollective.agency)"
+  },
+  {
+    "id": "log-1791726423216",
+    "timestamp": "2026-10-11T13:47:03.216Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Kylie Chen (kyliechen.biz@gmail.com)"
+  },
+  {
+    "id": "log-1791726423214",
+    "timestamp": "2026-10-11T13:47:03.214Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Jasmine Thorne (jasmine@thornebeauty.co)"
+  },
+  {
+    "id": "log-1791726423211",
+    "timestamp": "2026-10-11T13:47:03.211Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Chloe Dupont (chloe.mgmt@dupontcreators.fr)"
+  },
+  {
+    "id": "log-1791726423209",
+    "timestamp": "2026-10-11T13:47:03.209Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Maya Patel Glow (partnerships@mayaglow.media)"
+  },
+  {
+    "id": "log-1791726423207",
+    "timestamp": "2026-10-11T13:47:03.207Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Elena Rostova (contact@elenarostova.com)"
+  },
+  {
+    "id": "log-1791726423205",
+    "timestamp": "2026-10-11T13:47:03.205Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Sarah Brithinee (sarah.brithinee.collabs@gmail.com)"
+  },
+  {
+    "id": "log-1791726423201",
+    "timestamp": "2026-10-11T13:47:03.201Z",
+    "level": "info",
+    "message": "Initiating Email Outreach Batch (Mode: simulation)"
+  },
+  {
+    "id": "log-1791726423198",
+    "timestamp": "2026-10-11T13:47:03.198Z",
+    "level": "info",
+    "message": "AI message generation complete for all qualified influencers"
+  },
+  {
+    "id": "log-1791726423189",
+    "timestamp": "2026-10-11T13:47:03.189Z",
+    "level": "info",
+    "message": "Generating AI personalized outreach messages for 62 creators (Brand: \"GlowMatrix Skincare\", Type: \"UGC content creation\")"
+  },
+  {
+    "id": "log-1791726423185",
+    "timestamp": "2026-10-11T13:47:03.185Z",
+    "level": "info",
+    "message": "Enrichment completed: 62 profiles enriched. Valid emails: 58, Not Found: 4"
+  },
+  {
+    "id": "log-1791726423182",
+    "timestamp": "2026-10-11T13:47:03.182Z",
+    "level": "info",
+    "message": "Starting Profile Enrichment pipeline (Target: 62 creators)"
+  },
+  {
+    "id": "log-1791726423175",
+    "timestamp": "2026-10-11T13:47:03.175Z",
+    "level": "info",
+    "message": "Filtering finished: 28 Passed, 34 Failed out of 62 total creators"
+  },
+  {
+    "id": "log-1791726423144",
+    "timestamp": "2026-10-11T13:47:03.144Z",
+    "level": "info",
+    "message": "Running Filtering & Classification: Niche=\"Fashion & Beauty\", Followers=[5000 - 100000], MinEngagement=2%"
+  },
+  {
+    "id": "log-1791726423139",
+    "timestamp": "2026-10-11T13:47:03.139Z",
+    "level": "info",
+    "message": "Discovery completed: Retrieved 62 influencer profiles"
+  },
+  {
+    "id": "log-1791726423134",
+    "timestamp": "2026-10-11T13:47:03.134Z",
+    "level": "info",
+    "message": "Starting Influencer Discovery: niche=\"Fashion & Beauty\", source=\"all\", targetMin=50"
+  },
+  {
+    "id": "log-1791724512502",
+    "timestamp": "2026-10-11T13:15:12.502Z",
+    "level": "info",
+    "message": "Email outreach run complete: 0 sent, 26 duplicates prevented"
+  },
+  {
+    "id": "log-1791724512501",
+    "timestamp": "2026-10-11T13:15:12.501Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Camila Gomez Glam (camila@camilagomez.co)"
+  },
+  {
+    "id": "log-1791724512500",
+    "timestamp": "2026-10-11T13:15:12.500Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Devon Miller Clean Beauty (partnerships@devonmiller.org)"
+  },
+  {
+    "id": "log-1791724512499",
+    "timestamp": "2026-10-11T13:15:12.499Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Fatima Zahra Hijab Style (fatima.zahra.partnerships@gmail.com)"
+  },
+  {
+    "id": "log-1791724512498",
+    "timestamp": "2026-10-11T13:15:12.498Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Mia Carlson Wardrobe (mia.carlson.business@gmail.com)"
+  },
+  {
+    "id": "log-1791724512497",
+    "timestamp": "2026-10-11T13:15:12.497Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Valentina Rossi Glow (valentina@rossimanagement.it)"
+  },
+  {
+    "id": "log-1791724512496",
+    "timestamp": "2026-10-11T13:15:12.496Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Rachel Sterling Hair (rachel@sterlinghair.co.uk)"
+  },
+  {
+    "id": "log-1791724512495",
+    "timestamp": "2026-10-11T13:15:12.495Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Ananya Sharma Beauty (ananya.mgmt@sharmamedia.in)"
+  },
+  {
+    "id": "log-1791724512494",
+    "timestamp": "2026-10-11T13:15:12.494Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Lauren Hayes Thrift (lauren@hayescreative.net)"
+  },
+  {
+    "id": "log-1791724512493",
+    "timestamp": "2026-10-11T13:15:12.493Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Mei Lin Skincare Lab (collab@meilinbeautychem.com)"
+  },
+  {
+    "id": "log-1791724512492",
+    "timestamp": "2026-10-11T13:15:12.492Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Jessica Low (jessica@lowtalentgroup.com)"
+  },
+  {
+    "id": "log-1791724512491",
+    "timestamp": "2026-10-11T13:15:12.491Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Freja Lindqvist (freja@nordiccreators.se)"
+  },
+  {
+    "id": "log-1791724512490",
+    "timestamp": "2026-10-11T13:15:12.490Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Aaliyah Washington (aaliyah@washingtonmedia.co)"
+  },
+  {
+    "id": "log-1791724512489",
+    "timestamp": "2026-10-11T13:15:12.489Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Camille Leroy (camille@leroyagency.fr)"
+  },
+  {
+    "id": "log-1791724512487",
+    "timestamp": "2026-10-11T13:15:12.487Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Sienna Ray (sienna.ray.collab@gmail.com)"
+  },
+  {
+    "id": "log-1791724512486",
+    "timestamp": "2026-10-11T13:15:12.486Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for David Morales Grooming (david@moralesgrooming.com)"
+  },
+  {
+    "id": "log-1791724512485",
+    "timestamp": "2026-10-11T13:15:12.485Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Brooke Gallagher (brooke.mgmt@gallaghercollective.com)"
+  },
+  {
+    "id": "log-1791724512484",
+    "timestamp": "2026-10-11T13:15:12.484Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Talia Mendes (talia.collabs@gmail.com)"
+  },
+  {
+    "id": "log-1791724512482",
+    "timestamp": "2026-10-11T13:15:12.482Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Zara Vance (zara@vancemedia.co.uk)"
+  },
+  {
+    "id": "log-1791724512481",
+    "timestamp": "2026-10-11T13:15:12.481Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Hannah Bergmann (hannah@bergmannstudio.de)"
+  },
+  {
+    "id": "log-1791724512480",
+    "timestamp": "2026-10-11T13:15:12.480Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Nia Robinson (nia@thecurlcollective.agency)"
+  },
+  {
+    "id": "log-1791724512479",
+    "timestamp": "2026-10-11T13:15:12.479Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Kylie Chen (kyliechen.biz@gmail.com)"
+  },
+  {
+    "id": "log-1791724512478",
+    "timestamp": "2026-10-11T13:15:12.478Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Jasmine Thorne (jasmine@thornebeauty.co)"
+  },
+  {
+    "id": "log-1791724512477",
+    "timestamp": "2026-10-11T13:15:12.477Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Chloe Dupont (chloe.mgmt@dupontcreators.fr)"
+  },
+  {
+    "id": "log-1791724512476",
+    "timestamp": "2026-10-11T13:15:12.476Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Maya Patel Glow (partnerships@mayaglow.media)"
+  },
+  {
+    "id": "log-1791724512473",
+    "timestamp": "2026-10-11T13:15:12.473Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Elena Rostova (contact@elenarostova.com)"
+  },
+  {
+    "id": "log-1791724512472",
+    "timestamp": "2026-10-11T13:15:12.472Z",
+    "level": "warn",
+    "message": "Duplicate outreach prevented for Sarah Brithinee (sarah.brithinee.collabs@gmail.com)"
+  },
+  {
+    "id": "log-1791724512469",
+    "timestamp": "2026-10-11T13:15:12.469Z",
+    "level": "info",
+    "message": "Initiating Email Outreach Batch (Mode: simulation)"
+  },
+  {
+    "id": "log-1791724484103",
+    "timestamp": "2026-10-11T13:14:44.103Z",
+    "level": "info",
+    "message": "Email outreach run complete: 26 sent, 0 duplicates prevented"
+  },
+  {
+    "id": "log-1791724484102",
+    "timestamp": "2026-10-11T13:14:44.102Z",
+    "level": "info",
+    "message": "Outreach recorded for Camila Gomez Glam (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484099",
+    "timestamp": "2026-10-11T13:14:44.099Z",
+    "level": "info",
+    "message": "Outreach recorded for Devon Miller Clean Beauty (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484097",
+    "timestamp": "2026-10-11T13:14:44.097Z",
+    "level": "info",
+    "message": "Outreach recorded for Fatima Zahra Hijab Style (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484095",
+    "timestamp": "2026-10-11T13:14:44.095Z",
+    "level": "info",
+    "message": "Outreach recorded for Mia Carlson Wardrobe (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484093",
+    "timestamp": "2026-10-11T13:14:44.093Z",
+    "level": "info",
+    "message": "Outreach recorded for Valentina Rossi Glow (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484091",
+    "timestamp": "2026-10-11T13:14:44.091Z",
+    "level": "info",
+    "message": "Outreach recorded for Rachel Sterling Hair (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484088",
+    "timestamp": "2026-10-11T13:14:44.088Z",
+    "level": "info",
+    "message": "Outreach recorded for Ananya Sharma Beauty (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484086",
+    "timestamp": "2026-10-11T13:14:44.086Z",
+    "level": "info",
+    "message": "Outreach recorded for Lauren Hayes Thrift (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484084",
+    "timestamp": "2026-10-11T13:14:44.084Z",
+    "level": "info",
+    "message": "Outreach recorded for Mei Lin Skincare Lab (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484082",
+    "timestamp": "2026-10-11T13:14:44.082Z",
+    "level": "info",
+    "message": "Outreach recorded for Jessica Low (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484080",
+    "timestamp": "2026-10-11T13:14:44.080Z",
+    "level": "info",
+    "message": "Outreach recorded for Freja Lindqvist (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484078",
+    "timestamp": "2026-10-11T13:14:44.078Z",
+    "level": "info",
+    "message": "Outreach recorded for Aaliyah Washington (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484076",
+    "timestamp": "2026-10-11T13:14:44.076Z",
+    "level": "info",
+    "message": "Outreach recorded for Camille Leroy (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484074",
+    "timestamp": "2026-10-11T13:14:44.074Z",
+    "level": "info",
+    "message": "Outreach recorded for Sienna Ray (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484071",
+    "timestamp": "2026-10-11T13:14:44.071Z",
+    "level": "info",
+    "message": "Outreach recorded for David Morales Grooming (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484069",
+    "timestamp": "2026-10-11T13:14:44.069Z",
+    "level": "info",
+    "message": "Outreach recorded for Brooke Gallagher (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484067",
+    "timestamp": "2026-10-11T13:14:44.067Z",
+    "level": "info",
+    "message": "Outreach recorded for Talia Mendes (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484066",
+    "timestamp": "2026-10-11T13:14:44.066Z",
+    "level": "info",
+    "message": "Outreach recorded for Zara Vance (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484063",
+    "timestamp": "2026-10-11T13:14:44.063Z",
+    "level": "info",
+    "message": "Outreach recorded for Hannah Bergmann (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484061",
+    "timestamp": "2026-10-11T13:14:44.061Z",
+    "level": "info",
+    "message": "Outreach recorded for Nia Robinson (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484059",
+    "timestamp": "2026-10-11T13:14:44.059Z",
+    "level": "info",
+    "message": "Outreach recorded for Kylie Chen (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484056",
+    "timestamp": "2026-10-11T13:14:44.056Z",
+    "level": "info",
+    "message": "Outreach recorded for Jasmine Thorne (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484054",
+    "timestamp": "2026-10-11T13:14:44.054Z",
+    "level": "info",
+    "message": "Outreach recorded for Chloe Dupont (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484050",
+    "timestamp": "2026-10-11T13:14:44.050Z",
+    "level": "info",
+    "message": "Outreach recorded for Maya Patel Glow (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484047",
+    "timestamp": "2026-10-11T13:14:44.047Z",
+    "level": "info",
+    "message": "Outreach recorded for Elena Rostova (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484045",
+    "timestamp": "2026-10-11T13:14:44.045Z",
+    "level": "info",
+    "message": "Outreach recorded for Sarah Brithinee (SIMULATED)"
+  },
+  {
+    "id": "log-1791724484042",
+    "timestamp": "2026-10-11T13:14:44.042Z",
+    "level": "info",
+    "message": "Initiating Email Outreach Batch (Mode: simulation)"
+  },
+  {
+    "id": "log-1791724484041",
+    "timestamp": "2026-10-11T13:14:44.041Z",
+    "level": "info",
+    "message": "AI message generation complete for all qualified influencers"
+  },
+  {
+    "id": "log-1791724484037",
+    "timestamp": "2026-10-11T13:14:44.037Z",
+    "level": "info",
+    "message": "Generating AI personalized outreach messages for 62 creators (Brand: \"GlowMatrix Skincare\", Type: \"UGC content creation\")"
+  },
+  {
+    "id": "log-1791724484035",
+    "timestamp": "2026-10-11T13:14:44.035Z",
+    "level": "info",
+    "message": "Enrichment completed: 62 profiles enriched. Valid emails: 58, Not Found: 4"
+  },
+  {
+    "id": "log-1791724484033",
+    "timestamp": "2026-10-11T13:14:44.033Z",
+    "level": "info",
+    "message": "Starting Profile Enrichment pipeline (Target: 62 creators)"
+  },
+  {
+    "id": "log-1791724484031",
+    "timestamp": "2026-10-11T13:14:44.031Z",
+    "level": "info",
+    "message": "Filtering finished: 28 Passed, 34 Failed out of 62 total creators"
+  },
+  {
+    "id": "log-1791724484009",
+    "timestamp": "2026-10-11T13:14:44.009Z",
+    "level": "info",
+    "message": "Running Filtering & Classification: Niche=\"Fashion & Beauty\", Followers=[5000 - 100000], MinEngagement=2%"
+  },
+  {
+    "id": "log-1791724484006",
+    "timestamp": "2026-10-11T13:14:44.006Z",
+    "level": "info",
+    "message": "Discovery completed: Retrieved 62 influencer profiles"
+  },
+  {
+    "id": "log-1791724484003",
+    "timestamp": "2026-10-11T13:14:44.003Z",
+    "level": "info",
+    "message": "Starting Influencer Discovery: niche=\"All\", source=\"all\", targetMin=50"
+  },
+  {
+    "id": "log-1791724471984",
+    "timestamp": "2026-10-11T13:14:31.984Z",
+    "level": "info",
+    "message": "Filtering finished: 28 Passed, 34 Failed out of 62 total creators"
+  },
+  {
+    "id": "log-1791724471918",
+    "timestamp": "2026-10-11T13:14:31.918Z",
+    "level": "info",
+    "message": "Running Filtering & Classification: Niche=\"Fashion & Beauty\", Followers=[5000 - 100000], MinEngagement=2%"
+  },
+  {
+    "id": "log-1791724471914",
+    "timestamp": "2026-10-11T13:14:31.914Z",
+    "level": "info",
+    "message": "Discovery completed: Retrieved 62 influencer profiles"
+  },
+  {
+    "id": "log-1791724471903",
+    "timestamp": "2026-10-11T13:14:31.904Z",
+    "level": "info",
+    "message": "Starting Influencer Discovery: niche=\"All\", source=\"all\", targetMin=50"
+  }
+]
